@@ -1,0 +1,47 @@
+td{
+    width: 5vw;
+    border: 1px solid black;
+    align-items: center;
+}
+.noborder{
+    border: none;
+}
+.H1{
+background-color:lightcyan;
+font-size: 45px;
+color:black;
+}
+.footer{
+    background-color: lightgray;
+    color: white;
+}
+#p1{
+    background-color: darkorange;
+}
+#p2{
+    background-color: darkseagreen;
+}
+#p3{
+    background-color: peachpuff;
+}
+#p4{
+    background-color: lightgreen;
+}
+#p5{
+    background-color:chocolate;
+}
+#p6{
+    background-color: rgb(197, 107, 197);
+}
+#p7{
+    background-color:rgb(133, 133, 216);
+}
+#p8{
+    background-color: pink;
+}
+#p9{
+    color: red;
+}
+#p10{
+    background-color: yellow;
+}
